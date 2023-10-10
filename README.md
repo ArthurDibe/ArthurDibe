@@ -3,7 +3,7 @@
 My name is Arthur Dibe, I am a Software Developer / Electronic Engineer   
 
 - 🤵🏻 [My LinkedIn](https://www.linkedin.com/in/arthur-dibe/)
-- ⚡ **Fun fact:** I improve my problem-solving skills by coding and playing my acoustic guitar !
+- ⚡ **Fun fact:** D&D is basically a tool for mind developers ! 🧙🏻‍♂️🧝🏻🧛🏻‍♀️🦸🏻‍♀
 
 <!--
 **ArthurDibe/ArthurDibe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
