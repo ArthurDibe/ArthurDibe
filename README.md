@@ -47,3 +47,4 @@ I'm a full-stack developer passionate about creating digital solutions that can 
 
 <!--START_SECTION:buy-me-a-coffee-->
 <!--END_SECTION:buy-me-a-coffe-->
+
