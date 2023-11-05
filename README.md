@@ -31,19 +31,15 @@ I'm a full-stack developer passionate about creating digital solutions that can 
 ### 📊 Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArthurDibe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&rank_icon=github&hide=contribs" alt="Arthur's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurDibe&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
-
-#
+<br />
 
 ### ⚡Fun Facts
 
 - 🤖 The number **42** is the answer for the ultimate question of life, the universe, and everything. 👀
 
 <br />
-<div align="center">Thanks for the support❤️</div>
-<div align="center"><a href="https://www.buymeacoffee.com/arthurdibe"><img src="https://github.com/ArthurDibe/ArthurDibe/assets/5942022/6c3bb6f2-d32d-461b-b3c7-48f817687692" width=150></img></a></div>
-
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="arthurdibe" data-color="#FFDD00" data-emoji="" data-font="Comic" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
-
+<div align="center"><b>Thanks for the support❤️</b></div>
+<div align="center"><a href="https://www.buymeacoffee.com/arthurdibe"><img src="https://github.com/ArthurDibe/ArthurDibe/assets/5942022/6c3bb6f2-d32d-461b-b3c7-48f817687692" width=200></img></a></div>
 
 <!--START_SECTION:buy-me-a-coffee-->
 <!--END_SECTION:buy-me-a-coffe-->
