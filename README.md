@@ -25,13 +25,17 @@ I'm a full-stack developer passionate about creating digital solutions that can 
 <img alt="linux-original" src="https://github.com/ArthurDibe/ArthurDibe/assets/5942022/9caaf116-685a-4b49-839c-7ce0443981af" align="left" width=30 style="padding-right:10px;"/> 
 <img alt="bash-original" src="https://github.com/ArthurDibe/ArthurDibe/assets/5942022/4ace1e11-fecc-4534-bb39-0a0ce6862f10" align="left" width=30 style="padding-right:10px;"/> 
 <br />
+<br />
 
 #
 
 ### 📊 Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArthurDibe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&rank_icon=github&hide=contribs" alt="Arthur's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurDibe&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | ------------- |
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArthurDibe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&rank_icon=github&hide=contribs" alt="Arthur's github stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurDibe&layout=compact&theme=buefy&hide_border=true" />
+</div>
 <br />
+
+#
 
 ### ⚡Fun Facts
 
