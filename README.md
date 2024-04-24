@@ -31,9 +31,10 @@ I'm a full-stack developer passionate about creating digital solutions that can 
 #
 
 ### 📊 Stats
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArthurDibe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&rank_icon=github&hide=contribs" alt="Arthur's github stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurDibe&layout=compact&theme=buefy&hide_border=true" />
-</div>
+
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArthurDibe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&rank_icon=github&hide=contribs" alt="Arthur's github stats" /> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurDibe&layout=compact&theme=buefy&hide_border=true" />
+
 <br />
 
 #
